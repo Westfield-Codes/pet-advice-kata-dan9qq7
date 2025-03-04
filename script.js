@@ -34,5 +34,20 @@ alert("You would do well with a " + pet)
 // Ask for a pet name for the pet starting with the same letter as the pet starts with
 var petn = prompt("what would you name your pet?")
 // Display petname the pet says hi. 
+var i = ( i = 1 )
+if (petn == ""){ 
+   do { var i = (i = i + 1)
+    var petn = prompt("Please name your pet " + pet)
+} while (petn == ""); 
 
- alert("your pet " + pet + ", " + petn + " says hi")
+}
+
+if (i > 2 == true){
+    alert("your pet " + pet + ", " + petn + " says hi, you cruel person")  
+ 
+}
+if (i < 3){
+   alert("your pet " + pet + ", " + petn + " says hi")    
+}
+ 
+ 
